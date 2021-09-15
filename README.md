@@ -29,10 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi2040&" alt="vaishnavi2040" /></p>
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi2040)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi2040)](https://github.com/anuraghazra/github-readme-stats)
 
 
